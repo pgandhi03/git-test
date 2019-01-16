@@ -1,2 +1,2 @@
-while(x>4):
-      print(x)
+while(x>10):
+      print(x+78)
